@@ -1,2 +1,0 @@
-# ProneGame
-Demo
